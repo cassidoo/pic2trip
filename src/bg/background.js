@@ -1,3 +1,8 @@
+Clarifai.initialize({
+  'clientId': CLIENT_ID,
+  'clientSecret': CLIENT_SECRET
+});
+
 chrome.contextMenus.create({
   "id": "tripadifai",
   "title": "Tripadifai",
