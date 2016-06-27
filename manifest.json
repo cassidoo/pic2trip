@@ -1,9 +1,9 @@
 {
-  "name": "Tripadifai",
+  "name": "Pic2Trip",
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "Chrome extension to search Trip Advisor by image with Clarifai",
-  "homepage_url": "http://github.com/cassidoo/tripadifai",
+  "homepage_url": "http://github.com/cassidoo/pic2trip",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",

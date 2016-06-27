@@ -4,8 +4,8 @@ Clarifai.initialize({
 });
 
 chrome.contextMenus.create({
-  "id": "tripadifai",
-  "title": "Tripadifai",
+  "id": "pic2trip",
+  "title": "Pic2Trip",
   "contexts": ["image"]
 });
 

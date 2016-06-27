@@ -1,4 +1,4 @@
-Tripadifai
+Pic2Trip
 ============
 
 Chrome extension to search [Trip Advisor](http://tripadvisor.com) by image with
@@ -11,7 +11,7 @@ Chrome extension to search [Trip Advisor](http://tripadvisor.com) by image with
 Download this repo to the directory you want:
 
 ```
-git clone https://github.com/cassidoo/tripadifai.git
+git clone https://github.com/cassidoo/pic2trip.git
 ```
 
 To get started, get some application keys at [developer.clarifai.com](http://developer.clarifai.com).
@@ -31,4 +31,4 @@ Open up Chrome and go to `chrome://extensions`, and then hit
 
 ![img](extensions.png)
 
-Now you just select the `tripadifai` directory, and you're all set!
+Now you just select the `pic2trip` directory, and you're all set!
