@@ -8,6 +8,12 @@ Chrome extension to search [Trip Advisor](http://tripadvisor.com) by image with
 
 ## Installation
 
+### The Normal Human Way
+
+[Here it is in the Chrome Store](https://chrome.google.com/webstore/detail/pic2trip/gchkeemdfpeineieglldpjieppemjjla)
+
+### The Super Cool Dev-y Way
+
 Download this repo to the directory you want:
 
 ```
